@@ -5,4 +5,4 @@ edit: https://github.com/geoxe/projects/edit/main/%s
 view: https://github.com/geoxe/projects/blob/main/%s
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: ""
